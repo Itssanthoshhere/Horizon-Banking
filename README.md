@@ -36,6 +36,18 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 - **Forms & Validation:** React Hook Form + Zod  
 - **Charts & UI:** Chart.js  
 
+## 🎨 UI/UX Design
+
+The **Horizon Banking App** UI was crafted with a **minimal, modern, and finance-focused design system**.  
+From the dashboard overview to transaction history and fund transfers, every screen is designed to ensure **clarity, trust, and ease of use** for users managing their money.
+
+<p align="center">
+  <a href="https://www.figma.com/design/MPswLezMU8gQ0qQEHCtD1U/Horizon-Banking-App?node-id=2-2&t=eWEevEqQCzaS8sXV-1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Figma%20Design-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Link" />
+  </a>
+</p>
+
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
